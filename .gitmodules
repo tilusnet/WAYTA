@@ -1,0 +1,9 @@
+[submodule "CLAVIN"]
+	path = CLAVIN
+	url = git@github.com:tilusnet/CLAVIN.git
+[submodule "CLAVIN-NERD"]
+	path = CLAVIN-NERD
+	url = git@github.com:tilusnet/CLAVIN-NERD.git
+[submodule "geoname-service"]
+	path = geoname-service
+	url = git@bitbucket.org:tilusnet/geoname-service.git
